@@ -1,5 +1,5 @@
 # VProfile App
-
+##
 VProfile is a Java Spring MVC web application built with Maven and packaged as a WAR for deployment on Tomcat. The project includes Spring MVC, Spring Security, JPA, RabbitMQ, Elasticsearch, and MySQL integrations, and it is configured for CI/CD with GitHub Actions, Docker, ECR, and Helm-based deployment.
 
 ## Tech Stack
